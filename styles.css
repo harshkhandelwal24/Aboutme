@@ -1,0 +1,169 @@
+body{
+  text-align: center;
+}
+
+h1
+{
+  color: #66BFBF;
+  font-family: cursive;
+}
+h2
+{
+  color: #66BFBF;
+}
+.cloud1
+{
+  position: relative;
+  right: 400px;
+}
+.cloud2
+{
+  position: relative;
+  left: 600px;
+}
+.mountain
+{
+  position: relative;
+  right: 200px;
+}
+.mypic
+{
+  width: 25%;
+  border-radius: 100%;
+  margin-top: 30px;
+  margin-bottom:40px;
+}
+.aboutmepara
+{
+  margin-bottom: 60px;
+  width: 50%;
+  margin: auto;
+}
+.contactpara
+{
+  margin-top: 30px;
+}
+.hrule
+{
+  width: 30%;
+  margin: 30px auto 30px auto;
+  border-top: dotted;
+}
+.pc
+{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin-top: 5px;
+  border-radius: 100%;
+}
+.chilli{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+  height: 175px;
+}
+.chillipara
+{
+
+}
+.pcpara
+{
+  margin-top: 15px;
+}
+.pchead
+{
+  margin-top: 2px;
+  margin-bottom: 5px;
+}
+.myskill
+{
+  margin-left: 200px;
+  margin-right: 100px;
+  margin-bottom: 30px;
+}
+.skills
+{
+  width: 50%;
+  margin: 40px auto 75px auto;
+  text-align: left;
+  line-height: 1.5;
+}
+.skill2
+{
+  margin-top: 80px;
+  line-height: 1.5;
+}
+.intro
+{
+  padding-top: 50px;
+  background-color: #EAF6F6;
+  padding-bottom: 30px;
+}
+
+
+.btn
+{
+  background: #3498db;
+  margin-top: 30px;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-bottom: 20px;
+}
+
+.btn:hover
+{
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.lastp
+{
+  width: 50%;
+  margin: auto;
+}
+.footer{
+  padding: 20px 0 20px 0;
+  margin-top: 50px;
+  background-color: #66BFBF;
+}
+.footerpara
+{
+  margin-top: 20px;
+}
+.sml{
+  margin:0 25px 0 25px;
+}
+.navbar
+{
+  margin-left: 80%;
+  background-color: #EAF6F6;
+  position: fixed;
+}
+.navbar-toggler
+{
+  background-color:#66BFBF;
+}
+.form-info
+{
+  margin-top: 50px;
+}
+.cb
+{
+  margin-left: 500px;
+}
